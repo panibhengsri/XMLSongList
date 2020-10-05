@@ -10,7 +10,7 @@ song {
     padding-left: 80px;
 }
 
-song songtTitle {
+song songTitle {
     font-size: 200%; 
     font-weight: 700; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
