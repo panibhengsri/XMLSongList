@@ -3,7 +3,7 @@
 
 song {
     display:block; 
-    border-bottom: 2px solid #1E3FD1; 
+    border-bottom: 2px solid black; 
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
@@ -19,21 +19,25 @@ song songTitle {
 
 song album {
     display: block;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: grey;
 }
 
 song artist {
     display: block;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: grey;
 }
 
 song genre {
     display: block;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     color:grey;
 }
 
 song year {
     display: block;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     color:grey;
 }
 
