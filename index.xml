@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "xmlstyle.css" ?>
 <songs>
-
     <song>
         <songTitle>Easy</songTitle>
         <album>Drive Slow</album>
@@ -9,7 +8,6 @@
         <genre>R&B/Soul</genre>
         <year>2017</year>
     </song>
-
     <song>
         <name>
             <songTitle>CAN'T SAY
