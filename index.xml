@@ -9,129 +9,66 @@
         <year>2017</year>
     </song>
     <song>
-        <name>
-            <songTitle>CAN'T SAY
-            </songTitle>
-            <album>ASTROWORLD
-            </album>
-        </name>
-        <artist>Travis Scott
-        </artist>
-        <genre>Hip-Hop/Rap
-        </genre>
+        <songTitle>CAN'T SAY</songTitle>
+        <album>ASTROWORLD</album>
+        <artist>Travis Scott</artist>
+        <genre>Hip-Hop/Rap</genre>
         <year>2018</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>LOVE. (FEAT. ZACARI.)
-            </songTitle>
-            <album>DAMN.
-            </album>
-        </name>
-        <artist>Kendrick Lamar
-        </artist>
-        <genre>Hip-Hop/Rap
-        </genre>
+        <songTitle>LOVE. (FEAT. ZACARI.)</songTitle>
+        <album>DAMN.</album>
+        <artist>Kendrick Lamar</artist>
+        <genre>Hip-Hop/Rap</genre>
         <year>2017</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>No Idea
-            </songTitle>
-            <album>Heaven or Hell
-            </album>
-        </name>
-        <artist>Don Toliver
-        </artist>
-        <genre>Hip-Hop/Rap
-        </genre>
+        <songTitle>No Idea</songTitle>
+        <album>Heaven or Hell</album>
+        <artist>Don Toliver</artist>
+        <genre>Hip-Hop/Rap</genre>
         <year>2020</year>
     </song>
-    
     <song>
-        <name>
-            <songTitle>Locked Away (feat. Adam Levine)
-            </songTitle>
-            <album>What Dreams Are Made Of
-            </album>
-        </name>
-        <artist>R. City
-        </artist>
-        <genre>Pop
-        </genre>
+        <songTitle>Locked Away (feat. Adam Levine)</songTitle>
+        <album>What Dreams Are Made Of</album>
+        <artist>R. City</artist>
+        <genre>Pop</genre>
         <year>2015</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>Magic in the Hamptons (feat. Lil Yachty)
-            </songTitle>
-            <album>Magic in the Hamptons (feat. Lil Yachty) - Single
-            </album>
-        </name>
-        <artist>Social House
-        </artist>
-        <genre>Hip-Hop/Rap
-        </genre>
+        <songTitle>Magic in the Hamptons (feat. Lil Yachty)</songTitle>
+        <album>Magic in the Hamptons (feat. Lil Yachty) - Single</album>
+        <artist>Social House</artist>
+        <genre>Hip-Hop/Rap</genre>
         <year>2018</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>Candy Paint
-            </songTitle>
-            <album>beerbongs & bentleys
-            </album>
-        </name>
-        <artist>Post Malone
-        </artist>
-        <genre>Hip-Hop/Rap
-        </genre>
+        <songTitle>Candy Paint</songTitle>
+        <album>beerbongs & bentleys</album>
+        <artist>Post Malone</artist>
+        <genre>Hip-Hop/Rap</genre>
         <year>2018</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>All That Matters
-            </songTitle>
-            <album>Journals
-            </album>
-        </name>
-        <artist>Justin Bieber
-        </artist>
-        <genre>Pop
-        </genre>
+        <songTitle>All That Matters</songTitle>
+        <album>Journals</album>
+        <artist>Justin Bieber</artist>
+        <genre>Pop</genre>
         <year>2013</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>Summertime Magic
-            </songTitle>
-            <album>Summer Pack - Single
-            </album>
-        </name>
-        <artist>Childish Gambino
-        </artist>
-        <genre>R&B/Soul
-        </genre>
+        <songTitle>Summertime Magic</songTitle>
+        <album>Summer Pack - Single</album>
+        <artist>Childish Gambino</artist>
+        <genre>R&B/Soul</genre>
         <year>2018</year>
     </song>
-
     <song>
-        <name>
-            <songTitle>The Weekend (Funk Wav Remix)
-            </songTitle>
-            <album>The Weekend (Funk Wav Remix) - Single
-            </album>
-        </name>
-        <artist>SZA & Calvin Harris
-        </artist>
-        <genre>R&B/Soul
-        </genre>
+        <songTitle>The Weekend (Funk Wav Remix)</songTitle>
+        <album>The Weekend (Funk Wav Remix) - Single</album>
+        <artist>SZA & Calvin Harris</artist>
+        <genre>R&B/Soul</genre>
         <year>2017</year>
     </song>
-
 </songs>
