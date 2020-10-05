@@ -4,8 +4,10 @@
 
     <song>
         <name>
-            <songTitle>Easy</songTitle>
-            <album>Drive Slow</album>
+            <songTitle>Easy
+            </songTitle>
+            <album>Drive Slow
+            </album>
         </name>
         <artist>Mac Ayres</artist>
         <genre>R&B/Soul</genre>
@@ -14,8 +16,10 @@
 
     <song>
         <name>
-            <songTitle>CAN'T SAY</songTitle>
-            <album>ASTROWORLD</album>
+            <songTitle>CAN'T SAY
+            </songTitle>
+            <album>ASTROWORLD
+            </album>
         </name>
         <artist>Travis Scott</artist>
         <genre>Hip-Hop/Rap</genre>
@@ -24,8 +28,10 @@
 
     <song>
         <name>
-            <songTitle>LOVE. (FEAT. ZACARI.)</songTitle>
-            <album>DAMN.</album>
+            <songTitle>LOVE. (FEAT. ZACARI.)
+            </songTitle>
+            <album>DAMN.
+            </album>
         </name>
         <artist>Kendrick Lamar</artist>
         <genre>Hip-Hop/Rap</genre>
@@ -34,8 +40,10 @@
 
     <song>
         <name>
-            <songTitle>No Idea</songTitle>
-            <album>Heaven or Hell</album>
+            <songTitle>No Idea
+            </songTitle>
+            <album>Heaven or Hell
+            </album>
         </name>
         <artist>Don Toliver</artist>
         <genre>Hip-Hop/Rap</genre>
@@ -44,8 +52,10 @@
     
     <song>
         <name>
-            <songTitle>Locked Away (feat. Adam Levine)</songTitle>
-            <album>What Dreams Are Made Of</album>
+            <songTitle>Locked Away (feat. Adam Levine)
+            </songTitle>
+            <album>What Dreams Are Made Of
+            </album>
         </name>
         <artist>R. City</artist>
         <genre>Pop</genre>
@@ -54,8 +64,10 @@
 
     <song>
         <name>
-            <songTitle>Magic in the Hamptons (feat. Lil Yachty)</songTitle>
-            <album>Magic in the Hamptons (feat. Lil Yachty) - Single</album>
+            <songTitle>Magic in the Hamptons (feat. Lil Yachty)
+            </songTitle>
+            <album>Magic in the Hamptons (feat. Lil Yachty) - Single
+            </album>
         </name>
         <artist>Social House</artist>
         <genre>Hip-Hop/Rap</genre>
@@ -64,8 +76,10 @@
 
     <song>
         <name>
-            <songTitle>Candy Paint</songTitle>
-            <album>beerbongs & bentleys</album>
+            <songTitle>Candy Paint
+            </songTitle>
+            <album>beerbongs & bentleys
+            </album>
         </name>
         <artist>Post Malone</artist>
         <genre>Hip-Hop/Rap</genre>
@@ -74,8 +88,10 @@
 
     <song>
         <name>
-            <songTitle>All That Matters</songTitle>
-            <album>Journals</album>
+            <songTitle>All That Matters
+            </songTitle>
+            <album>Journals
+            </album>
         </name>
         <artist>Justin Bieber</artist>
         <genre>Pop</genre>
@@ -84,18 +100,23 @@
 
     <song>
         <name>
-            <songTitle>Summertime Magic</songTitle>
-            <album>Summer Pack - Single</album>
+            <songTitle>Summertime Magic
+            </songTitle>
+            <album>Summer Pack - Single
+            </album>
         </name>
-        <artist>Childish Gambino</artist>
+        <artist>Childish Gambino
+        </artist>
         <genre>R&B/Soul</genre>
         <year>2018</year>
     </song>
 
     <song>
         <name>
-            <songTitle>The Weekend (Funk Wav Remix)</songTitle>
-            <album>The Weekend (Funk Wav Remix) - Single</album>
+            <songTitle>The Weekend (Funk Wav Remix)
+            </songTitle>
+            <album>The Weekend (Funk Wav Remix) - Single
+            </album>
         </name>
         <artist>SZA & Calvin Harris</artist>
         <genre>R&B/Soul</genre>
