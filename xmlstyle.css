@@ -2,10 +2,12 @@
 /* CSS Document */
 
 song {display:block; border-bottom: 1px solid #1E3FD1; padding : 8px 0;}
-song name {font-size: 30px; font-weight: 700;}
+song songtTitle {font-size: 30px; font-weight: 700;}
+song album {display:block;}
 song artist {display:block;}
 song genre {display:block;}
 song year {display:block;}
+song album:before {content:"Album: "; }
 song artist:before {content:"Artist: "; }
 song genre:before {content:"Genre: "; }
 song year:before {content:"Year: "; }
