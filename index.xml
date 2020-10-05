@@ -5,28 +5,28 @@
         <songTitle>Easy</songTitle>
         <album>Drive Slow</album>
         <artist>Mac Ayres</artist>
-        <genre>R&B/Soul</genre>
+        <genre>R&B</genre>
         <year>2017</year>
     </song>
     <song>
         <songTitle>CAN'T SAY</songTitle>
         <album>ASTROWORLD</album>
         <artist>Travis Scott</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <genre>Hip-Hop</genre>
         <year>2018</year>
     </song>
     <song>
         <songTitle>LOVE. (FEAT. ZACARI.)</songTitle>
         <album>DAMN.</album>
         <artist>Kendrick Lamar</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <genre>Hip-Hop</genre>
         <year>2017</year>
     </song>
     <song>
         <songTitle>No Idea</songTitle>
         <album>Heaven or Hell</album>
         <artist>Don Toliver</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <genre>Hip-Hop</genre>
         <year>2020</year>
     </song>
     <song>
@@ -40,14 +40,14 @@
         <songTitle>Magic in the Hamptons (feat. Lil Yachty)</songTitle>
         <album>Magic in the Hamptons (feat. Lil Yachty) - Single</album>
         <artist>Social House</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <genre>Hip-Hop</genre>
         <year>2018</year>
     </song>
     <song>
         <songTitle>Candy Paint</songTitle>
         <album>beerbongs & bentleys</album>
         <artist>Post Malone</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <genre>Hip-Hop</genre>
         <year>2018</year>
     </song>
     <song>
@@ -61,14 +61,14 @@
         <songTitle>Summertime Magic</songTitle>
         <album>Summer Pack - Single</album>
         <artist>Childish Gambino</artist>
-        <genre>R&B/Soul</genre>
+        <genre>R&B</genre>
         <year>2018</year>
     </song>
     <song>
         <songTitle>The Weekend (Funk Wav Remix)</songTitle>
         <album>The Weekend (Funk Wav Remix) - Single</album>
         <artist>SZA & Calvin Harris</artist>
-        <genre>R&B/Soul</genre>
+        <genre>R&B</genre>
         <year>2017</year>
     </song>
 </songs>
