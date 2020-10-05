@@ -9,8 +9,10 @@
             <album>Drive Slow
             </album>
         </name>
-        <artist>Mac Ayres</artist>
-        <genre>R&B/Soul</genre>
+        <artist>Mac Ayres
+        </artist>
+        <genre>R&B/Soul
+        </genre>
         <year>2017</year>
     </song>
 
@@ -21,8 +23,10 @@
             <album>ASTROWORLD
             </album>
         </name>
-        <artist>Travis Scott</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <artist>Travis Scott
+        </artist>
+        <genre>Hip-Hop/Rap
+        </genre>
         <year>2018</year>
     </song>
 
@@ -33,8 +37,10 @@
             <album>DAMN.
             </album>
         </name>
-        <artist>Kendrick Lamar</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <artist>Kendrick Lamar
+        </artist>
+        <genre>Hip-Hop/Rap
+        </genre>
         <year>2017</year>
     </song>
 
@@ -45,8 +51,10 @@
             <album>Heaven or Hell
             </album>
         </name>
-        <artist>Don Toliver</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <artist>Don Toliver
+        </artist>
+        <genre>Hip-Hop/Rap
+        </genre>
         <year>2020</year>
     </song>
     
@@ -57,8 +65,10 @@
             <album>What Dreams Are Made Of
             </album>
         </name>
-        <artist>R. City</artist>
-        <genre>Pop</genre>
+        <artist>R. City
+        </artist>
+        <genre>Pop
+        </genre>
         <year>2015</year>
     </song>
 
@@ -69,8 +79,10 @@
             <album>Magic in the Hamptons (feat. Lil Yachty) - Single
             </album>
         </name>
-        <artist>Social House</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <artist>Social House
+        </artist>
+        <genre>Hip-Hop/Rap
+        </genre>
         <year>2018</year>
     </song>
 
@@ -81,8 +93,10 @@
             <album>beerbongs & bentleys
             </album>
         </name>
-        <artist>Post Malone</artist>
-        <genre>Hip-Hop/Rap</genre>
+        <artist>Post Malone
+        </artist>
+        <genre>Hip-Hop/Rap
+        </genre>
         <year>2018</year>
     </song>
 
@@ -93,8 +107,10 @@
             <album>Journals
             </album>
         </name>
-        <artist>Justin Bieber</artist>
-        <genre>Pop</genre>
+        <artist>Justin Bieber
+        </artist>
+        <genre>Pop
+        </genre>
         <year>2013</year>
     </song>
 
@@ -107,7 +123,8 @@
         </name>
         <artist>Childish Gambino
         </artist>
-        <genre>R&B/Soul</genre>
+        <genre>R&B/Soul
+        </genre>
         <year>2018</year>
     </song>
 
@@ -118,8 +135,10 @@
             <album>The Weekend (Funk Wav Remix) - Single
             </album>
         </name>
-        <artist>SZA & Calvin Harris</artist>
-        <genre>R&B/Soul</genre>
+        <artist>SZA & Calvin Harris
+        </artist>
+        <genre>R&B/Soul
+        </genre>
         <year>2017</year>
     </song>
 </songs>
