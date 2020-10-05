@@ -3,16 +3,10 @@
 <songs>
 
     <song>
-        <name>
-            <songTitle>Easy
-            </songTitle>
-            <album>Drive Slow
-            </album>
-        </name>
-        <artist>Mac Ayres
-        </artist>
-        <genre>R&B/Soul
-        </genre>
+        <songTitle>Easy</songTitle>
+        <album>Drive Slow</album>
+        <artist>Mac Ayres</artist>
+        <genre>R&B/Soul</genre>
         <year>2017</year>
     </song>
 
@@ -141,4 +135,5 @@
         </genre>
         <year>2017</year>
     </song>
+
 </songs>
