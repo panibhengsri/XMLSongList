@@ -14,27 +14,27 @@ song songTitle {
     font-size: 200%; 
     font-weight: 700; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    color: blue;
+    color:black;
 }
 
 song album {
     display: block;
-    color: red;
+    color: grey;
 }
 
 song artist {
     display: block;
-    color: orange;
+    color: grey;
 }
 
 song genre {
     display: block;
-    color:green;
+    color:grey;
 }
 
 song year {
     display: block;
-    color:violet;
+    color:grey;
 }
 
 song album:before {
