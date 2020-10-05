@@ -3,7 +3,7 @@
 
 song {
     display:block; 
-    border-bottom: 1px solid #1E3FD1; 
+    border-bottom: 2px solid #1E3FD1; 
     padding : 8px 0;
 }
 
@@ -11,22 +11,27 @@ song songtTitle {
     font-size: 30px; 
     font-weight: 700; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: blue;
 }
 
 song album {
     display: block;
+    color: red;
 }
 
 song artist {
     display: block;
+    color: orange;
 }
 
 song genre {
     display: block;
+    color:green;
 }
 
 song year {
     display: block;
+    color:violet;
 }
 
 song album:before {
